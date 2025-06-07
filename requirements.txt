@@ -1,4 +1,3 @@
--e file:///home/hoangsonsdk/ai-knowledge-graph
 asttokens==3.0.0
 certifi==2025.1.31
 charset-normalizer==3.4.1
@@ -13,7 +12,7 @@ jsonpickle==4.0.2
 markupsafe==3.0.2
 matplotlib-inline==0.1.7
 networkx==3.4.2
-numpy==2.2.4
+numpy==1.26.4
 pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
@@ -34,3 +33,4 @@ traitlets==5.14.3
 tzdata==2025.1
 urllib3==2.3.0
 wcwidth==0.2.13
+docling

@@ -1,28 +1,26 @@
 [llm]
-model = "llama3"
+model = "gemma3"
 #model = "claude-3.5-sonnet-v2"
 #model = "gpt4o"
 #model = "llama3-2-90b-instruct-v1:0"
 api_key = "sk-1234"
 base_url = "http://localhost:11434/v1/chat/completions"
 #base_url = "http://localhost:4000/v1/chat/completions"
-max_tokens = 8192
-#max_tokens = 4096
-temperature = 0.8
+max_tokens = 4096
+temperature = 0.1  # Giảm để tăng tính nhất quán và độ chính xác
 
 [chunking]
-chunk_size = 100  # Number of words per chunk
-overlap = 20      # Number of words to overlap between chunks
+chunk_size = 150  # Tăng để giữ ngữ cảnh tốt hơn
+overlap = 30      # Tăng để đảm bảo không mất thông tin quan trọng
 
 [standardization]
-enabled = true             # Whether to enable entity standardization
-use_llm_for_entities = true  # Whether to use LLM for additional entity resolution
+enabled = true             
+use_llm_for_entities = false  # Tắt để tránh LLM tự tạo entities
 
 [inference]
-enabled = true             # Whether to enable relationship inference
-use_llm_for_inference = true  # Whether to use LLM for relationship inference
-apply_transitive = true    # Whether to apply transitive inference rules
+enabled = false            # Tắt inference để tránh tạo relationships không chính xác
+use_llm_for_inference = false  
+apply_transitive = false   # Tắt để tránh suy luận có thể sai
 
 [visualization]
-edge_smooth = false  # Options: false, "dynamic", "continuous", "discrete", "diagonalCross", 
-                         # "straightCross", "horizontal", "vertical", "curvedCW", "curvedCCW", "cubicBezier": true = "continuous"
+edge_smooth = false

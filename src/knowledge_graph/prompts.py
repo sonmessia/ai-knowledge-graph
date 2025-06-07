@@ -1,147 +1,136 @@
-"""Centralized repository for all LLM prompts used in the knowledge graph system."""
+"""Kho lưu trữ tập trung cho tất cả các prompt dùng cho LLM trong hệ thống đồ thị tri thức."""
 
-# Phase 1: Main extraction prompts
+# Giai đoạn 1: Prompt trích xuất chính
 MAIN_SYSTEM_PROMPT = """
-You are an advanced AI system specialized in knowledge extraction and knowledge graph generation.
-Your expertise includes identifying consistent entity references and meaningful relationships in text.
-CRITICAL INSTRUCTION: All relationships (predicates) MUST be no more than 3 words maximum. Ideally 1-2 words. This is a hard limit.
+Bạn là hệ thống AI chuyên về trích xuất tri thức và xây dựng đồ thị tri thức cho các tài liệu học thuật, chương trình đào tạo.
+Chuyên môn của bạn là nhận diện các thực thể (ví dụ: tên môn học, mã môn học, nhóm học phần, điều kiện tiên quyết, số tín chỉ, khối kiến thức, nhóm tự chọn, số tín chỉ cụ thể(LT, TH, ...),...) và các mối quan hệ giữa chúng trong văn bản.
+Lưu ý QUAN TRỌNG: Mọi quan hệ (predicate) CHỈ được tối đa 3 từ (tốt nhất là 1-2 từ). Đây là quy tắc bắt buộc.
 """
 
 MAIN_USER_PROMPT = """
-Your task: Read the text below (delimited by triple backticks) and identify all Subject-Predicate-Object (S-P-O) relationships in each sentence. Then produce a single JSON array of objects, each representing one triple.
+Nhiệm vụ của bạn: Đọc văn bản dưới đây (được phân cách bằng ba dấu `) và xác định tất cả các mối quan hệ Chủ thể - Quan hệ - Đối tượng (S-P-O) trong từng câu. Sau đó, xuất ra một mảng JSON gồm các object, mỗi object đại diện cho một triple.
 
-Follow these rules carefully:
+Làm theo các quy tắc sau:
 
-- Entity Consistency: Use consistent names for entities throughout the document. For example, if "John Smith" is mentioned as "John", "Mr. Smith", and "John Smith" in different places, use a single consistent form (preferably the most complete one) in all triples.
-- Atomic Terms: Identify distinct key terms (e.g., objects, locations, organizations, acronyms, people, conditions, concepts, feelings). Avoid merging multiple ideas into one term (they should be as "atomistic" as possible).
-- Unified References: Replace any pronouns (e.g., "he," "she," "it," "they," etc.) with the actual referenced entity, if identifiable.
-- Pairwise Relationships: If multiple terms co-occur in the same sentence (or a short paragraph that makes them contextually related), create one triple for each pair that has a meaningful relationship.
-- CRITICAL INSTRUCTION: Predicates MUST be 1-3 words maximum. Never more than 3 words. Keep them extremely concise.
-- Ensure that all possible relationships are identified in the text and are captured in an S-P-O relation.
-- Standardize terminology: If the same concept appears with slight variations (e.g., "artificial intelligence" and "AI"), use the most common or canonical form consistently.
-- Make all the text of S-P-O text lower-case, even Names of people and places.
-- If a person is mentioned by name, create a relation to their location, profession and what they are known for (invented, wrote, started, title, etc.) if known and if it fits the context of the informaiton. 
+- Nhận diện thông tin về chương trình (tên, mã ngành, trình độ, thời gian đào tạo, số tín chỉ)
+- Nhận diện các khối kiến thức (đại cương, cơ sở ngành, chuyên ngành, tự chọn)
+- Nhận diện các nhóm học phần cụ thể (ví dụ: Nhóm 1: Công nghệ phần mềm)
+- Nhận diện thông tin về các môn học (mã, tên, số tín chỉ)
+- Nhận diện mối quan hệ giữa các môn học (tiên quyết, song hành, thay thế)
+- Thống nhất thuật ngữ và sử dụng định dạng nhất quán
 
-Important Considerations:
-- Aim for precision in entity naming - use specific forms that distinguish between similar but different entities
-- Maximize connectedness by using identical entity names for the same concepts throughout the document
-- Consider the entire context when identifying entity references
-- ALL PREDICATES MUST BE 3 WORDS OR FEWER - this is a hard requirement
 
-Output Requirements:
+Yêu cầu đầu ra:
 
-- Do not include any text or commentary outside of the JSON.
-- Return only the JSON array, with each triple as an object containing "subject", "predicate", and "object".
-- Make sure the JSON is valid and properly formatted.
+- Chỉ trả về một mảng JSON gồm các triple với 3 trường: "subject", "predicate", "object".
+- Không thêm chú thích, không in thêm bất kỳ nội dung nào ngoài mảng JSON.
+- Toàn bộ các trường (subject, predicate, object) đều chuyển thành chữ thường, không dấu.
 
-Example of the desired output structure:
+Ví dụ đầu ra:
 
 [
   {
-    "subject": "Term A",
-    "predicate": "relates to",  // Notice: only 2 words
-    "object": "Term B"
+    "subject": "dai so tuyen tinh",
+    "predicate": "la mon hoc",
+    "object": "toan co ban"
   },
   {
-    "subject": "Term C",
-    "predicate": "uses",  // Notice: only 1 word
-    "object": "Term D"
+    "subject": "lap trinh huong doi tuong",
+    "predicate": "yeu cau truoc",
+    "object": "ky thuat lap trinh"
   }
 ]
 
-Important: Only output the JSON array (with the S-P-O objects) and nothing else
-
-Text to analyze (between triple backticks):
+Văn bản cần phân tích (nằm giữa ba dấu `):
 """
 
-# Phase 2: Entity standardization prompts
+# Giai đoạn 2: Prompt chuẩn hóa tên thực thể
 ENTITY_RESOLUTION_SYSTEM_PROMPT = """
-You are an expert in entity resolution and knowledge representation.
-Your task is to standardize entity names from a knowledge graph to ensure consistency.
+Bạn là chuyên gia chuẩn hóa thực thể và biểu diễn tri thức.
+Nhiệm vụ của bạn là chuẩn hóa tên thực thể được trích xuất từ đồ thị tri thức để đảm bảo tính nhất quán.
 """
 
 def get_entity_resolution_user_prompt(entity_list):
     return f"""
-Below is a list of entity names extracted from a knowledge graph. 
-Some may refer to the same real-world entities but with different wording.
+Dưới đây là danh sách tên thực thể đã được trích xuất từ một đồ thị tri thức. 
+Một số có thể đề cập đến cùng một thực thể thực tế nhưng có cách viết khác nhau.
 
-Please identify groups of entities that refer to the same concept, and provide a standardized name for each group.
-Return your answer as a JSON object where the keys are the standardized names and the values are arrays of all variant names that should map to that standard name.
-Only include entities that have multiple variants or need standardization.
+Hãy xác định các nhóm thực thể cùng chỉ về một khái niệm, và cung cấp một tên chuẩn hóa cho mỗi nhóm.
+Trả lời dưới dạng một đối tượng JSON, trong đó key là tên chuẩn hóa, value là mảng chứa tất cả các biến thể nên gộp lại.
+Chỉ cần liệt kê các thực thể có nhiều biến thể hoặc cần chuẩn hóa.
 
-Entity list:
+Danh sách thực thể:
 {entity_list}
 
-Format your response as valid JSON like this:
+Định dạng trả về như sau:
 {{
-  "standardized name 1": ["variant 1", "variant 2"],
-  "standardized name 2": ["variant 3", "variant 4", "variant 5"]
+  "ten chuan hoa 1": ["bien the 1", "bien the 2"],
+  "ten chuan hoa 2": ["bien the 3", "bien the 4", "bien the 5"]
 }}
 """
 
-# Phase 3: Community relationship inference prompts
+# Giai đoạn 3: Prompt suy luận mối quan hệ giữa các cộng đồng thực thể
 RELATIONSHIP_INFERENCE_SYSTEM_PROMPT = """
-You are an expert in knowledge representation and inference. 
-Your task is to infer plausible relationships between disconnected entities in a knowledge graph.
+Bạn là chuyên gia biểu diễn tri thức và suy luận. 
+Nhiệm vụ của bạn là suy luận các mối quan hệ hợp lý giữa hai cộng đồng thực thể chưa liên kết trong đồ thị tri thức.
 """
 
 def get_relationship_inference_user_prompt(entities1, entities2, triples_text):
     return f"""
-I have a knowledge graph with two disconnected communities of entities. 
+Tôi có một đồ thị tri thức với hai cộng đồng thực thể chưa liên kết trực tiếp.
 
-Community 1 entities: {entities1}
-Community 2 entities: {entities2}
+Cộng đồng 1: {entities1}
+Cộng đồng 2: {entities2}
 
-Here are some existing relationships involving these entities:
+Dưới đây là một số quan hệ hiện có giữa các thực thể này:
 {triples_text}
 
-Please infer 2-3 plausible relationships between entities from Community 1 and entities from Community 2.
-Return your answer as a JSON array of triples in the following format:
+Hãy suy luận 2-3 mối quan hệ hợp lý giữa các thực thể của Cộng đồng 1 và Cộng đồng 2.
+Trả về một mảng JSON các triple theo định dạng sau:
 
 [
   {{
-    "subject": "entity from community 1",
-    "predicate": "inferred relationship",
-    "object": "entity from community 2"
+    "subject": "thuc the cong dong 1",
+    "predicate": "moi quan he",
+    "object": "thuc the cong dong 2"
   }},
   ...
 ]
 
-Only include highly plausible relationships with clear predicates.
-IMPORTANT: The inferred relationships (predicates) MUST be no more than 3 words maximum. Preferably 1-2 words. Never more than 3.
-For predicates, use short phrases that clearly describe the relationship.
-IMPORTANT: Make sure the subject and object are different entities - avoid self-references.
+Chỉ đưa vào các quan hệ thực sự hợp lý, rõ nghĩa.
+LƯU Ý: Predicate (mối quan hệ) CHỈ được tối đa 3 từ, ưu tiên 1-2 từ.
+Chỉ kết nối các thực thể khác nhau, không tự tham chiếu.
 """
 
-# Phase 4: Within-community relationship inference prompts
+# Giai đoạn 4: Prompt suy luận mối quan hệ trong cùng cộng đồng thực thể
 WITHIN_COMMUNITY_INFERENCE_SYSTEM_PROMPT = """
-You are an expert in knowledge representation and inference. 
-Your task is to infer plausible relationships between semantically related entities that are not yet connected in a knowledge graph.
+Bạn là chuyên gia biểu diễn tri thức và suy luận.
+Nhiệm vụ của bạn là suy luận các mối quan hệ hợp lý giữa các thực thể liên quan về nghĩa nhưng chưa liên kết trong đồ thị tri thức.
 """
 
 def get_within_community_inference_user_prompt(pairs_text, triples_text):
     return f"""
-I have a knowledge graph with several entities that appear to be semantically related but are not directly connected.
+Tôi có một đồ thị tri thức với nhiều thực thể có vẻ liên quan về mặt nghĩa nhưng chưa liên kết trực tiếp.
 
-Here are some pairs of entities that might be related:
+Dưới đây là các cặp thực thể có thể liên quan:
 {pairs_text}
 
-Here are some existing relationships involving these entities:
+Đây là các quan hệ hiện có giữa các thực thể này:
 {triples_text}
 
-Please infer plausible relationships between these disconnected pairs.
-Return your answer as a JSON array of triples in the following format:
+Hãy suy luận các mối quan hệ hợp lý giữa các cặp thực thể chưa liên kết.
+Trả về một mảng JSON các triple theo định dạng sau:
 
 [
   {{
-    "subject": "entity1",
-    "predicate": "inferred relationship",
-    "object": "entity2"
+    "subject": "thuc the 1",
+    "predicate": "moi quan he",
+    "object": "thuc the 2"
   }},
   ...
 ]
 
-Only include highly plausible relationships with clear predicates.
-IMPORTANT: The inferred relationships (predicates) MUST be no more than 3 words maximum. Preferably 1-2 words. Never more than 3.
-IMPORTANT: Make sure that the subject and object are different entities - avoid self-references.
-""" 
+Chỉ đưa vào các quan hệ thực sự hợp lý, rõ nghĩa.
+LƯU Ý: Predicate (mối quan hệ) CHỈ được tối đa 3 từ, ưu tiên 1-2 từ.
+Chỉ kết nối các thực thể khác nhau, không tự tham chiếu.
+"""
