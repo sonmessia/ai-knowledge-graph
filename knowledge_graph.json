@@ -1,0 +1,4478 @@
+[
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "applies to",
+    "object": "\u0111\u1ea1i h\u1ecdc h\u1ec7 ch\u00ednh quy",
+    "chunk": 1
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "has code",
+    "object": "7480201",
+    "chunk": 1
+  },
+  {
+    "subject": "ch\u1ea5t l\u01b0\u1ee3ng ph\u1ea7n m\u1ec1m",
+    "predicate": "is",
+    "object": "150 t\u00edn ch\u1ec9",
+    "chunk": 1
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "covers",
+    "object": "an ninh",
+    "chunk": 1
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "has title",
+    "object": "Computer Education",
+    "chunk": 2
+  },
+  {
+    "subject": "stt",
+    "predicate": "is a",
+    "object": "Operating System",
+    "chunk": 2
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "has total credits",
+    "object": "47",
+    "chunk": 2
+  },
+  {
+    "subject": "Party History",
+    "predicate": "is",
+    "object": "book",
+    "chunk": 3
+  },
+  {
+    "subject": "nhom 6 do an tot nghiep",
+    "predicate": "is",
+    "object": "theory",
+    "chunk": 3
+  },
+  {
+    "subject": "Party History",
+    "predicate": "is",
+    "object": "history",
+    "chunk": 3
+  },
+  {
+    "subject": "Vietnamese Revolution",
+    "predicate": "is",
+    "object": "thoughts",
+    "chunk": 3
+  },
+  {
+    "subject": "Vietnamese Revolution",
+    "predicate": "related to",
+    "object": "pos103",
+    "chunk": 4
+  },
+  {
+    "subject": "ti\u1ebfng anh 4",
+    "predicate": "teaches",
+    "object": "enc102",
+    "chunk": 4
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "teaches",
+    "object": "enc104",
+    "chunk": 4
+  },
+  {
+    "subject": "ti\u1ebfng anh 1",
+    "predicate": "teaches",
+    "object": "enc101",
+    "chunk": 4
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "is part of",
+    "object": "enc101",
+    "chunk": 5
+  },
+  {
+    "subject": "enc101",
+    "predicate": "requires",
+    "object": "i.10",
+    "chunk": 5
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is part of",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "chunk": 5
+  },
+  {
+    "subject": "mat101",
+    "predicate": "is part of",
+    "object": "i.11",
+    "chunk": 5
+  },
+  {
+    "subject": "i.12",
+    "predicate": "teaches",
+    "object": "gi\u1ea3i t\u00edch",
+    "chunk": 5
+  },
+  {
+    "subject": "ens109",
+    "predicate": "concerns",
+    "object": "Mobile Technology",
+    "chunk": 5
+  },
+  {
+    "subject": "psy167",
+    "predicate": "studies",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "chunk": 5
+  },
+  {
+    "subject": "tam ly hoc",
+    "predicate": "is about",
+    "object": "psychoanalysis",
+    "chunk": 6
+  },
+  {
+    "subject": "tinh du thai ke",
+    "predicate": "uses",
+    "object": "design thinking",
+    "chunk": 6
+  },
+  {
+    "subject": "doi moi sang tao",
+    "predicate": "involves",
+    "object": "innovation",
+    "chunk": 6
+  },
+  {
+    "subject": "sang tao tu duong",
+    "predicate": "requires",
+    "object": "entrepreneurship",
+    "chunk": 6
+  },
+  {
+    "subject": "phap luat dac cuong",
+    "predicate": "expounds",
+    "object": "law",
+    "chunk": 6
+  },
+  {
+    "subject": "mat101",
+    "predicate": "deals with",
+    "object": "probability statistics",
+    "chunk": 7
+  },
+  {
+    "subject": "mat105",
+    "predicate": "concerns",
+    "object": "discrete math",
+    "chunk": 7
+  },
+  {
+    "subject": "mat105",
+    "predicate": "teaches",
+    "object": "toan-rai-rac",
+    "chunk": 8
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "focuses",
+    "object": "Computer Science",
+    "chunk": 8
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "uses",
+    "object": "khoa-hoc-lap-trinh",
+    "chunk": 8
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "builds",
+    "object": "Computer Science",
+    "chunk": 8
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "teaches",
+    "object": "lap-trinh-huong-doi-tuong",
+    "chunk": 8
+  },
+  {
+    "subject": "cos130",
+    "predicate": "introduces",
+    "object": "nhap-mon-co-so-du-lieu",
+    "chunk": 8
+  },
+  {
+    "subject": "cos120",
+    "predicate": "covers",
+    "object": "phan-tich-coso-du-lieu",
+    "chunk": 8
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers",
+    "object": "cos120",
+    "chunk": 9
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers",
+    "object": "cos135",
+    "chunk": 9
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers",
+    "object": "Software Engineering",
+    "chunk": 9
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers",
+    "object": "cos130",
+    "chunk": 9
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers",
+    "object": "cos138",
+    "chunk": 9
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "uses",
+    "object": "stt",
+    "chunk": 10
+  },
+  {
+    "subject": "stt",
+    "predicate": "has",
+    "object": "Operating System",
+    "chunk": 10
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is",
+    "object": "lectures",
+    "chunk": 11
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "about",
+    "object": "Program",
+    "chunk": 11
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "has",
+    "object": "windows",
+    "chunk": 11
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "relates to",
+    "object": "device",
+    "chunk": 11
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "uses",
+    "object": "Program",
+    "chunk": 12
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "related to",
+    "object": "Program",
+    "chunk": 12
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "related to",
+    "object": "Mobile Technology",
+    "chunk": 12
+  },
+  {
+    "subject": "cos138",
+    "predicate": "related to",
+    "object": "k\u1ebf h\u1ec7 th\u1ed1ng",
+    "chunk": 12
+  },
+  {
+    "subject": "man104",
+    "predicate": "is",
+    "object": "qu\u1ea3n l\u00fd d\u1ef1 \u00e1n",
+    "chunk": 12
+  },
+  {
+    "subject": "th\u1ed1ng",
+    "predicate": "has",
+    "object": "3",
+    "chunk": 13
+  },
+  {
+    "subject": "man104",
+    "predicate": "manages",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "chunk": 13
+  },
+  {
+    "subject": "cmp136",
+    "predicate": "uses",
+    "object": "cmp191",
+    "chunk": 13
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "is",
+    "object": "a",
+    "chunk": 13
+  },
+  {
+    "subject": "cos138",
+    "predicate": "has",
+    "object": "ii.1.34",
+    "chunk": 13
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "practices",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "chunk": 13
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is about",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "chunk": 14
+  },
+  {
+    "subject": "cos339",
+    "predicate": "is about",
+    "object": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "chunk": 14
+  },
+  {
+    "subject": "cos324",
+    "predicate": "is about",
+    "object": "c\u1ea5u tr\u00fac d\u1eef li\u1ec7u v\u00e0 gi\u1ea3i thu\u1eadt",
+    "chunk": 14
+  },
+  {
+    "subject": "cos135",
+    "predicate": "related to",
+    "object": "cos324",
+    "chunk": 14
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about",
+    "object": "Data Science",
+    "chunk": 14
+  },
+  {
+    "subject": "cos130",
+    "predicate": "related to",
+    "object": "cos318",
+    "chunk": 14
+  },
+  {
+    "subject": "cos340",
+    "predicate": "is about",
+    "object": "Operating System",
+    "chunk": 14
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "practices",
+    "object": "Program",
+    "chunk": 15
+  },
+  {
+    "subject": "cmp3014",
+    "predicate": "practices",
+    "object": "Program",
+    "chunk": 15
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "practices",
+    "object": "Operating System",
+    "chunk": 15
+  },
+  {
+    "subject": "cmp385",
+    "predicate": "practices",
+    "object": "Mobile Technology",
+    "chunk": 15
+  },
+  {
+    "subject": "hanh ky tech",
+    "predicate": "uses",
+    "object": "Program",
+    "chunk": 16
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to",
+    "object": "Software Engineering",
+    "chunk": 16
+  },
+  {
+    "subject": "ii.1.41",
+    "predicate": "related to",
+    "object": "cmp376",
+    "chunk": 16
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to",
+    "object": "Software Engineering",
+    "chunk": 16
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "has course",
+    "object": "ii.1.33",
+    "chunk": 17
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "practices",
+    "object": "programming",
+    "chunk": 17
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "has course",
+    "object": "ii.1.32",
+    "chunk": 17
+  },
+  {
+    "subject": "cmp319",
+    "predicate": "covers",
+    "object": "theory",
+    "chunk": 17
+  },
+  {
+    "subject": "cmp368",
+    "predicate": "practices",
+    "object": "networking",
+    "chunk": 17
+  },
+  {
+    "subject": "cmp169",
+    "predicate": "has course",
+    "object": "ii.1.31",
+    "chunk": 17
+  },
+  {
+    "subject": "cmp373",
+    "predicate": "practices",
+    "object": "system analysis",
+    "chunk": 17
+  },
+  {
+    "subject": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "predicate": "includes",
+    "object": "th\u1ed1ng",
+    "chunk": 18
+  },
+  {
+    "subject": "cmp175",
+    "predicate": "teaches",
+    "object": "ph\u00e2n t\u00edch thi\u1ebft k\u1ebf theo h\u01b0\u1edbng \u0111\u1ed1i t\u01b0\u1ee3ng",
+    "chunk": 18
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches",
+    "object": "Data Science",
+    "chunk": 18
+  },
+  {
+    "subject": "cos339",
+    "predicate": "teaches",
+    "object": "ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m m\u00e3 ngu\u1ed3n m\u1edf",
+    "chunk": 18
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is",
+    "object": "practical work",
+    "chunk": 19
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "related to",
+    "object": "information technology",
+    "chunk": 19
+  },
+  {
+    "subject": "cos120",
+    "predicate": "relates to",
+    "object": "computer science",
+    "chunk": 19
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes",
+    "object": "Software Engineering",
+    "chunk": 19
+  },
+  {
+    "subject": "ii.2.5.03",
+    "predicate": "includes",
+    "object": "knowledge self-selected",
+    "chunk": 19
+  },
+  {
+    "subject": "ii.2.5.03",
+    "predicate": "categorizes",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "chunk": 20
+  },
+  {
+    "subject": "ii.2.4.04",
+    "predicate": "is about",
+    "object": "Mobile Technology",
+    "chunk": 20
+  },
+  {
+    "subject": "cmp195",
+    "predicate": "covers",
+    "object": "Mobile Technology",
+    "chunk": 20
+  },
+  {
+    "subject": "ii.2.1.01",
+    "predicate": "is about",
+    "object": "t\u1ed5ng kh\u1ed1i l\u01b0\u1ee3ng ki\u1ebfn th\u1ee9c",
+    "chunk": 20
+  },
+  {
+    "subject": "cmp172",
+    "predicate": "covers",
+    "object": "t\u1ed5ng kh\u1ed1i l\u01b0\u1ee3ng ki\u1ebfn th\u1ee9c",
+    "chunk": 20
+  },
+  {
+    "subject": "ki\u1ec3m th\u1eed",
+    "predicate": "assures",
+    "object": "ch\u1ea5t",
+    "chunk": 21
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n \u1ee9ng d\u1ee5ng v\u1edbi j2ee",
+    "predicate": "develops",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "chunk": 21
+  },
+  {
+    "subject": "\u1ee9ng d\u1ee5ng",
+    "predicate": "uses",
+    "object": "j2ee",
+    "chunk": 21
+  },
+  {
+    "subject": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "predicate": "focuses on",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "chunk": 21
+  },
+  {
+    "subject": "dung",
+    "predicate": "is part of",
+    "object": "nhom 2",
+    "chunk": 22
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "has topic",
+    "object": "dung",
+    "chunk": 22
+  },
+  {
+    "subject": "cos 125",
+    "predicate": "is a course",
+    "object": "co so du lieu phan tan",
+    "chunk": 22
+  },
+  {
+    "subject": "cos 126",
+    "predicate": "uses",
+    "object": "phan tich va dam gia an toan thong tin",
+    "chunk": 22
+  },
+  {
+    "subject": "stt",
+    "predicate": "has info",
+    "object": "Operating System",
+    "chunk": 22
+  },
+  {
+    "subject": "s\u1ed1 t\u00edn ch\u1ec9",
+    "predicate": "reports",
+    "object": "Operating System",
+    "chunk": 23
+  },
+  {
+    "subject": "stt",
+    "predicate": "represents",
+    "object": "Computer Network",
+    "chunk": 23
+  },
+  {
+    "subject": "cmp179",
+    "predicate": "is",
+    "object": "Cloud Computing",
+    "chunk": 23
+  },
+  {
+    "subject": "cos128",
+    "predicate": "is",
+    "object": "kho d\u1eef li\u1ec7u v\u00e0 khai th\u00e1c d\u1eef li\u1ec7u",
+    "chunk": 23
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "is part of",
+    "object": "3",
+    "chunk": 24
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "covered in",
+    "object": "cos136",
+    "chunk": 24
+  },
+  {
+    "subject": "Cloud Computing",
+    "predicate": "topic of course",
+    "object": "cos136",
+    "chunk": 24
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "covered in",
+    "object": "cos137",
+    "chunk": 24
+  },
+  {
+    "subject": "Computer Network",
+    "predicate": "topic of course",
+    "object": "cmp170",
+    "chunk": 24
+  },
+  {
+    "subject": "qu\u1ea3n tr\u1ecb m\u1ea1ng",
+    "predicate": "topic of course",
+    "object": "cmp174",
+    "chunk": 24
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "consists of",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "chunk": 25
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "studies",
+    "object": "m\u00e1y h\u1ecdc",
+    "chunk": 25
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "studies",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "chunk": 25
+  },
+  {
+    "subject": "cmp1022",
+    "predicate": "focuses on",
+    "object": "h\u1ecdc s\u00e2u",
+    "chunk": 25
+  },
+  {
+    "subject": "cmp1023",
+    "predicate": "concerns",
+    "object": "Mobile Technology",
+    "chunk": 25
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues",
+    "object": "Data Science",
+    "chunk": 25
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "explores",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "chunk": 25
+  },
+  {
+    "subject": "internet",
+    "predicate": "v\u1ea1n v\u1eadt",
+    "object": "",
+    "chunk": 26
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to",
+    "object": "ii.2.4.04",
+    "chunk": 26
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to",
+    "object": "Software Engineering",
+    "chunk": 26
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to",
+    "object": "",
+    "chunk": 26
+  },
+  {
+    "subject": "",
+    "predicate": "An to\u00e0n h\u1ec7",
+    "object": "cos127",
+    "chunk": 26
+  },
+  {
+    "subject": "",
+    "predicate": "An to\u00e0n h\u1ec7",
+    "object": "cmp192",
+    "chunk": 26
+  },
+  {
+    "subject": "he thong thong tin ung dung",
+    "predicate": "covers",
+    "object": "ii.2.5.04",
+    "chunk": 27
+  },
+  {
+    "subject": "dung",
+    "predicate": "covers",
+    "object": "ii.2.1.02",
+    "chunk": 27
+  },
+  {
+    "subject": "an toan he thong mang may tinh",
+    "predicate": "analyzes",
+    "object": "security",
+    "chunk": 27
+  },
+  {
+    "subject": "\u0111t, \u0111\u1ed3 \u00e1n t\u1ed1t nghi\u1ec7p",
+    "predicate": "comprises",
+    "object": "do an tot nghiep",
+    "chunk": 27
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is",
+    "object": "Program",
+    "chunk": 28
+  },
+  {
+    "subject": "Program",
+    "predicate": "of",
+    "object": "department",
+    "chunk": 28
+  },
+  {
+    "subject": "department",
+    "predicate": "for",
+    "object": "students",
+    "chunk": 28
+  },
+  {
+    "subject": "ch\u1ea5t",
+    "predicate": "is in",
+    "object": "nh\u00f3m 1",
+    "chunk": 29
+  },
+  {
+    "subject": "pht307",
+    "predicate": "uses",
+    "object": "b\u00f3ng chuy\u1ec3n 3",
+    "chunk": 29
+  },
+  {
+    "subject": "pht312",
+    "predicate": "uses",
+    "object": "b\u00f3ng chuy\u1ec1n 2",
+    "chunk": 29
+  },
+  {
+    "subject": "pht310",
+    "predicate": "uses",
+    "object": "b\u00f3ng chuy\u1ec1n 2",
+    "chunk": 29
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "uses",
+    "object": "pht317",
+    "chunk": 30
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "plays",
+    "object": "bang ro 1",
+    "chunk": 30
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "plays",
+    "object": "bang ro 2",
+    "chunk": 30
+  },
+  {
+    "subject": "pht317",
+    "predicate": "related to",
+    "object": "nhom 2",
+    "chunk": 30
+  },
+  {
+    "subject": "pht311",
+    "predicate": "plays",
+    "object": "3",
+    "chunk": 30
+  },
+  {
+    "subject": "pht305",
+    "predicate": "plays",
+    "object": "bang ro 1",
+    "chunk": 30
+  },
+  {
+    "subject": "pht313",
+    "predicate": "related to",
+    "object": "3",
+    "chunk": 30
+  },
+  {
+    "subject": "th\u1ea9m m\u1ef9 1",
+    "predicate": "part of",
+    "object": "pht315",
+    "chunk": 31
+  },
+  {
+    "subject": "th\u1ec3 h\u00ecnh",
+    "predicate": "included in",
+    "object": "pht313",
+    "chunk": 31
+  },
+  {
+    "subject": "th\u1ec3 h\u00ecnh",
+    "predicate": "included in",
+    "object": "pht314",
+    "chunk": 31
+  },
+  {
+    "subject": "3",
+    "predicate": "part of",
+    "object": "pht315",
+    "chunk": 31
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "part of",
+    "object": "iii.1.4.01",
+    "chunk": 31
+  },
+  {
+    "subject": "vovinam2",
+    "predicate": "part of",
+    "object": "pht318",
+    "chunk": 31
+  },
+  {
+    "subject": "vovinam 3",
+    "predicate": "part of",
+    "object": "pht316",
+    "chunk": 31
+  },
+  {
+    "subject": "vovinam 1",
+    "predicate": "part of",
+    "object": "pht315",
+    "chunk": 31
+  },
+  {
+    "subject": "pht316",
+    "predicate": "related to",
+    "object": "Vovinam",
+    "chunk": 32
+  },
+  {
+    "subject": "pht318",
+    "predicate": "part of",
+    "object": "pht316",
+    "chunk": 32
+  },
+  {
+    "subject": "pht315",
+    "predicate": "related to",
+    "object": "Vovinam",
+    "chunk": 32
+  },
+  {
+    "subject": "nhom5",
+    "predicate": "has",
+    "object": "pht316",
+    "chunk": 32
+  },
+  {
+    "subject": "pht308",
+    "predicate": "related to",
+    "object": "bongda1",
+    "chunk": 32
+  },
+  {
+    "subject": "pht306",
+    "predicate": "related to",
+    "object": "bongda1",
+    "chunk": 32
+  },
+  {
+    "subject": "pht308",
+    "predicate": "part of",
+    "object": "pht306",
+    "chunk": 32
+  },
+  {
+    "subject": "pht309",
+    "predicate": "related to",
+    "object": "bongda2",
+    "chunk": 32
+  },
+  {
+    "subject": "pht306",
+    "predicate": "part of",
+    "object": "pht309",
+    "chunk": 32
+  },
+  {
+    "subject": "chuongtrinh",
+    "predicate": "covers",
+    "object": "giao ducquocphongandan",
+    "chunk": 32
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng tr\u00ecnh gi\u00e1o d\u1ee5c",
+    "predicate": "is",
+    "object": "Program",
+    "chunk": 34
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "according to",
+    "object": "bo gd&dt",
+    "chunk": 34
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "is required",
+    "object": "not accumulative",
+    "chunk": 34
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "is about",
+    "object": "National Defense",
+    "chunk": 35
+  },
+  {
+    "subject": "National Defense",
+    "predicate": "has",
+    "object": "name",
+    "chunk": 35
+  },
+  {
+    "subject": "sinh vi\u00ean",
+    "predicate": "get",
+    "object": "\u0111i\u1ec1u ki\u1ec7n th\u1ef1c t\u1eadp",
+    "chunk": 36
+  },
+  {
+    "subject": "sinh vi\u00ean",
+    "predicate": "be examined",
+    "object": "do an tot nghiep",
+    "chunk": 36
+  },
+  {
+    "subject": "khoa",
+    "predicate": "have",
+    "object": "quy \u0111\u1ecbnh",
+    "chunk": 36
+  },
+  {
+    "subject": "nguyyen trung kien",
+    "predicate": "sign",
+    "object": "ph\u00f3 hi\u1ebfu tr\u01b0\u1edfng",
+    "chunk": 36
+  },
+  {
+    "subject": "nguyyen trung kien",
+    "predicate": "is hi\u1ebfu tr\u01b0\u1edfng",
+    "object": "ph\u00f3 hi\u1ebfu tr\u01b0\u1edfng",
+    "chunk": 37
+  },
+  {
+    "subject": "nguyyen trung kien",
+    "predicate": "signs",
+    "object": "contract",
+    "chunk": 37
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "used by",
+    "object": "nhom 2",
+    "inferred": true
+  },
+  {
+    "subject": "ke h\u1ec7 th\u1ed1ng",
+    "predicate": "related to",
+    "object": "pht317",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam 1",
+    "predicate": "practiced by",
+    "object": "dung",
+    "inferred": true
+  },
+  {
+    "subject": "ens109",
+    "predicate": "uses technology",
+    "object": "pht308",
+    "inferred": true
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "related to development",
+    "object": "pht309",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam",
+    "predicate": "inspires martial arts",
+    "object": "bongda1",
+    "inferred": true
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "taught in",
+    "object": "ti\u1ebfng anh 2",
+    "inferred": true
+  },
+  {
+    "subject": "k\u1ebf h\u1ec7 th\u1ed1ng",
+    "predicate": "related to",
+    "object": "enc104",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam",
+    "predicate": "taught with",
+    "object": "ti\u1ebfng anh 1",
+    "inferred": true
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "examined by",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam",
+    "predicate": "studied by",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "pht315",
+    "predicate": "taught to",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "covers",
+    "object": "pht309",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "related to",
+    "object": "bongda1",
+    "inferred": true
+  },
+  {
+    "subject": "pht305",
+    "predicate": "plays",
+    "object": "bang ro 2",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "covers language course",
+    "object": "ti\u1ebfng anh 1",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "uses teaching tool",
+    "object": "enc104",
+    "inferred": true
+  },
+  {
+    "subject": "pht305",
+    "predicate": "plays language game",
+    "object": "ti\u1ebfng anh 2",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "related to",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "pht305",
+    "predicate": "examinated by",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 2",
+    "predicate": "used in",
+    "object": "\u0111o \u00e1n t\u1ed1t nghi\u1ec7p",
+    "inferred": true
+  },
+  {
+    "subject": "pht306",
+    "predicate": "teaches",
+    "object": "enc101",
+    "inferred": true
+  },
+  {
+    "subject": "pht309",
+    "predicate": "related to",
+    "object": "ti\u1ebfng anh 1",
+    "inferred": true
+  },
+  {
+    "subject": "bongda2",
+    "predicate": "requires",
+    "object": "i.10",
+    "inferred": true
+  },
+  {
+    "subject": "pht306",
+    "predicate": "is part of",
+    "object": "\u0111o \u00e1n t\u1ed1t nghi\u1ec7p",
+    "inferred": true
+  },
+  {
+    "subject": "pht308",
+    "predicate": "related to",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "do an tot nghiep",
+    "predicate": "examined by",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 1",
+    "predicate": "teaches to",
+    "object": "sinh vi\u00ean",
+    "inferred": true
+  },
+  {
+    "subject": "enc104",
+    "predicate": "prerequisites for",
+    "object": "do an tot nghiep",
+    "inferred": true
+  },
+  {
+    "subject": "i.10",
+    "predicate": "requires knowledge of",
+    "object": "\u0111i\u1ec1u ki\u1ec7n th\u1ef1c t\u1eadp",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam",
+    "predicate": "related to",
+    "object": "ens109",
+    "inferred": true
+  },
+  {
+    "subject": "pht315",
+    "predicate": "covers",
+    "object": "ii.2.4.04",
+    "inferred": true
+  },
+  {
+    "subject": "cos137",
+    "predicate": "includes",
+    "object": "Operating System",
+    "inferred": true
+  },
+  {
+    "subject": "department",
+    "predicate": "hosts",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 1",
+    "predicate": "plays",
+    "object": "pht305",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "member of",
+    "object": "bang ro 2",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "covers via",
+    "object": "Software Engineering",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "covers via",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "covers via",
+    "object": "National Defense",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "covers via",
+    "object": "ii.2.4.04",
+    "inferred": true
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "has title via",
+    "object": "bo gd&dt",
+    "inferred": true
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "has title via",
+    "object": "not accumulative",
+    "inferred": true
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "has title via",
+    "object": "47",
+    "inferred": true
+  },
+  {
+    "subject": "stt",
+    "predicate": "represents via Computer",
+    "object": "cmp170",
+    "inferred": true
+  },
+  {
+    "subject": "stt",
+    "predicate": "has info via",
+    "object": "cos137",
+    "inferred": true
+  },
+  {
+    "subject": "stt",
+    "predicate": "has info via",
+    "object": "Computer Education",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "is part",
+    "object": "i.10",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 1",
+    "predicate": "teaches via enc101",
+    "object": "i.10",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is via Program",
+    "object": "department",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "related to via",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "related to via",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "practices via Operating",
+    "object": "cos137",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "practices via Operating",
+    "object": "Computer Education",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "uses via stt",
+    "object": "Computer Network",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "explores via \u1ee9ng",
+    "object": "j2ee",
+    "inferred": true
+  },
+  {
+    "subject": "ens109",
+    "predicate": "concerns via Mobile",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "ens109",
+    "predicate": "concerns via Mobile",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "psy167",
+    "predicate": "studies via \u1ee9ng",
+    "object": "j2ee",
+    "inferred": true
+  },
+  {
+    "subject": "cos130",
+    "predicate": "related to via",
+    "object": "Data Science",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via cos130",
+    "object": "nhap-mon-co-so-du-lieu",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via cos130",
+    "object": "cos318",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via cos138",
+    "object": "k\u1ebf h\u1ec7 th\u1ed1ng",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via cos138",
+    "object": "ii.1.34",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via cos135",
+    "object": "cos324",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "indirectly covers",
+    "object": "phan-tich-coso-du-lieu",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via cos120",
+    "object": "computer science",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "Mobile Technology",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "windows",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "Operating System",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "ii.1.33",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "stt",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "practical work",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "programming",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "ii.1.32",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "information technology",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "device",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "khoa-hoc-lap-trinh",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "lap-trinh-huong-doi-tuong",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "covers via Software",
+    "object": "lectures",
+    "inferred": true
+  },
+  {
+    "subject": "th\u1ed1ng",
+    "predicate": "has via 3",
+    "object": "pht315",
+    "inferred": true
+  },
+  {
+    "subject": "cos135",
+    "predicate": "related to via",
+    "object": "c\u1ea5u tr\u00fac d\u1eef li\u1ec7u v\u00e0 gi\u1ea3i thu\u1eadt",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about via",
+    "object": "cos130",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about via",
+    "object": "cos138",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about via",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about via",
+    "object": "cos135",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about via",
+    "object": "cos120",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is about via",
+    "object": "Software Engineering",
+    "inferred": true
+  },
+  {
+    "subject": "cos340",
+    "predicate": "is about via",
+    "object": "cos137",
+    "inferred": true
+  },
+  {
+    "subject": "cos340",
+    "predicate": "is about via",
+    "object": "Computer Education",
+    "inferred": true
+  },
+  {
+    "subject": "cmp3014",
+    "predicate": "practices via Program",
+    "object": "department",
+    "inferred": true
+  },
+  {
+    "subject": "cmp385",
+    "predicate": "practices via Mobile",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "cmp385",
+    "predicate": "practices via Mobile",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "hanh ky tech",
+    "predicate": "uses via Program",
+    "object": "department",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "indirectly related to",
+    "object": "Mobile Technology",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "windows",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "Operating System",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "ii.1.33",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "stt",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "practical work",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "programming",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "ii.1.32",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "indirectly related to",
+    "object": "information technology",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "device",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "khoa-hoc-lap-trinh",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "lap-trinh-huong-doi-tuong",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "related to via",
+    "object": "lectures",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "indirectly related to",
+    "object": "Mobile Technology",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "windows",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "Operating System",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "stt",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "practical work",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "programming",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "ii.1.32",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "indirectly related to",
+    "object": "information technology",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "device",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "khoa-hoc-lap-trinh",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "lap-trinh-huong-doi-tuong",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "related to via",
+    "object": "lectures",
+    "inferred": true
+  },
+  {
+    "subject": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "predicate": "includes via th\u1ed1ng",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches via Data",
+    "object": "cos130",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches via Data",
+    "object": "cos138",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches via Data",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches via Data",
+    "object": "cos135",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches via Data",
+    "object": "cos120",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "teaches via Data",
+    "object": "Software Engineering",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "Mobile Technology",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "windows",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "Operating System",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "ii.1.33",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "stt",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "practical work",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "programming",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "ii.1.32",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "information technology",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "device",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "khoa-hoc-lap-trinh",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "lap-trinh-huong-doi-tuong",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "includes via Software",
+    "object": "lectures",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.4.04",
+    "predicate": "is about via",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.4.04",
+    "predicate": "is about via",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp195",
+    "predicate": "covers via Mobile",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "cmp195",
+    "predicate": "covers via Mobile",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ki\u1ec3m th\u1eed",
+    "predicate": "assures via ch\u1ea5t",
+    "object": "nh\u00f3m 1",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n \u1ee9ng d\u1ee5ng v\u1edbi j2ee",
+    "predicate": "develops via \u1ee9ng",
+    "object": "j2ee",
+    "inferred": true
+  },
+  {
+    "subject": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "predicate": "focuses on via",
+    "object": "j2ee",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "is part",
+    "object": "bang ro 2",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "is part",
+    "object": "bang ro 1",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "is part",
+    "object": "pht317",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "has topic via",
+    "object": "ii.2.1.02",
+    "inferred": true
+  },
+  {
+    "subject": "s\u1ed1 t\u00edn ch\u1ec9",
+    "predicate": "reports via Operating",
+    "object": "cos137",
+    "inferred": true
+  },
+  {
+    "subject": "s\u1ed1 t\u00edn ch\u1ec9",
+    "predicate": "reports via Operating",
+    "object": "Computer Education",
+    "inferred": true
+  },
+  {
+    "subject": "cmp179",
+    "predicate": "is via Cloud",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "is part",
+    "object": "pht315",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "studies via \u1ee9ng",
+    "object": "j2ee",
+    "inferred": true
+  },
+  {
+    "subject": "cmp1023",
+    "predicate": "concerns via Mobile",
+    "object": "cos136",
+    "inferred": true
+  },
+  {
+    "subject": "cmp1023",
+    "predicate": "concerns via Mobile",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues via Data",
+    "object": "cos130",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues via Data",
+    "object": "cos138",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues via Data",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues via Data",
+    "object": "cos135",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues via Data",
+    "object": "cos120",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "pursues via Data",
+    "object": "Software Engineering",
+    "inferred": true
+  },
+  {
+    "subject": "internet",
+    "predicate": "v\u1ea1n v\u1eadt via ",
+    "object": "cmp192",
+    "inferred": true
+  },
+  {
+    "subject": "internet",
+    "predicate": "v\u1ea1n v\u1eadt via ",
+    "object": "cos127",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "indirectly related to",
+    "object": "Mobile Technology",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "windows",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "Operating System",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "ii.1.33",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "stt",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "practical work",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "\u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "programming",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "ii.1.32",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "indirectly related to",
+    "object": "information technology",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "device",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "khoa-hoc-lap-trinh",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "lap-trinh-huong-doi-tuong",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "lectures",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via ",
+    "object": "cmp192",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via ",
+    "object": "cos127",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "is about via",
+    "object": "name",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "related to via",
+    "object": "Mobile Technology",
+    "inferred": true
+  },
+  {
+    "subject": "Program",
+    "predicate": "of via department",
+    "object": "students",
+    "inferred": true
+  },
+  {
+    "subject": "pht317",
+    "predicate": "related to via",
+    "object": "dung",
+    "inferred": true
+  },
+  {
+    "subject": "pht317",
+    "predicate": "related to via",
+    "object": "bang ro 2",
+    "inferred": true
+  },
+  {
+    "subject": "pht317",
+    "predicate": "related to via",
+    "object": "bang ro 1",
+    "inferred": true
+  },
+  {
+    "subject": "pht311",
+    "predicate": "plays via 3",
+    "object": "pht315",
+    "inferred": true
+  },
+  {
+    "subject": "pht313",
+    "predicate": "related to via",
+    "object": "pht315",
+    "inferred": true
+  },
+  {
+    "subject": "th\u1ea9m m\u1ef9 1",
+    "predicate": "part of via",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "th\u1ec3 h\u00ecnh",
+    "predicate": "included in via",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "3",
+    "predicate": "part of via",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam2",
+    "predicate": "indirectly part of",
+    "object": "pht316",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 3",
+    "predicate": "part of via",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 1",
+    "predicate": "part of via",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "pht318",
+    "predicate": "part of via",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "nhom5",
+    "predicate": "has via pht316",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "pht308",
+    "predicate": "indirectly part of",
+    "object": "pht309",
+    "inferred": true
+  },
+  {
+    "subject": "pht306",
+    "predicate": "part of via",
+    "object": "bongda2",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng tr\u00ecnh gi\u00e1o d\u1ee5c",
+    "predicate": "is via Program",
+    "object": "department",
+    "inferred": true
+  },
+  {
+    "subject": "k\u1ebf h\u1ec7 th\u1ed1ng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "k\u1ebf h\u1ec7 th\u1ed1ng",
+    "predicate": "related to",
+    "object": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "k\u1ebf h\u1ec7 th\u1ed1ng",
+    "predicate": "relates to",
+    "object": "th\u1ed1ng",
+    "inferred": true
+  },
+  {
+    "subject": "tinh du thai ke",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Vietnamese Revolution",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "a",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 1",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "bongda1",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "chuongtrinh",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.4.04",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "department",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "phan tich va dam gia an toan thong tin",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "b\u00f3ng chuy\u1ec1n 2",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht315",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "an toan he thong mang may tinh",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp175",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos138",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nguyyen trung kien",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos137",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ens109",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 2",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "bongda2",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "name",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "mat101",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "entrepreneurship",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "\u0111\u1ea1i h\u1ecdc h\u1ec7 ch\u00ednh quy",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "sang tao tu duong",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Program",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp136",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.1.01",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "qu\u1ea3n tr\u1ecb m\u1ea1ng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht311",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "tam ly hoc",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "do an tot nghiep",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "gi\u1ea3i t\u00edch",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 1",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos339",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u1ea5t l\u01b0\u1ee3ng ph\u1ea7n m\u1ec1m",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "150 t\u00edn ch\u1ec9",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "law",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos340",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp1022",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "kho d\u1eef li\u1ec7u v\u00e0 khai th\u00e1c d\u1eef li\u1ec7u",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "mat105",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht308",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "National Defense",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos128",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "lectures",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "sinh vi\u00ean",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "s\u1ed1 t\u00edn ch\u1ec9",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "enc104",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 6 do an tot nghiep",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp174",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "t\u1ed5ng kh\u1ed1i l\u01b0\u1ee3ng ki\u1ebfn th\u1ee9c",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp191",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "networking",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "qu\u1ea3n l\u00fd d\u1ef1 \u00e1n",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "programming",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n \u1ee9ng d\u1ee5ng v\u1edbi j2ee",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp1023",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng tr\u00ecnh gi\u00e1o d\u1ee5c",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "th\u1ea9m m\u1ef9 1",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "47",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nhom5",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos 125",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "information technology",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "enc102",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "thoughts",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht316",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "khoa",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "b\u00f3ng chuy\u1ec3n 3",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "th\u1ec3 h\u00ecnh",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "security",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.1.02",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "book",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "windows",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "dung",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "co so du lieu phan tan",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.34",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "3",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "innovation",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht314",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "system analysis",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "quy \u0111\u1ecbnh",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos 126",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "enc101",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos130",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "man104",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp376",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "phap luat dac cuong",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 3",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp368",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "knowledge self-selected",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.5.04",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp169",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "phan-tich-coso-du-lieu",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00f3 hi\u1ebfu tr\u01b0\u1edfng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.22",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.5.03",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "7480201",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "practical work",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "computer science",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht312",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam2",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht305",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht309",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp373",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp385",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ki\u1ec3m th\u1eed",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Network",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.31",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "probability statistics",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "\u0111t, \u0111\u1ed3 \u00e1n t\u1ed1t nghi\u1ec7p",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "khoa-hoc-lap-trinh",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Cloud Computing",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 1",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "psy167",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "iii.1.4.01",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "design thinking",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "stt",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp172",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "h\u1ecdc s\u00e2u",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "hanh ky tech",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "i.12",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp179",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos135",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos120",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "device",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp170",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht318",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "bo gd&dt",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "m\u00e1y h\u1ecdc",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "\u0111i\u1ec1u ki\u1ec7n th\u1ef1c t\u1eadp",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nhap-mon-co-so-du-lieu",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos324",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "history",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "psychoanalysis",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 4",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "contract",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "theory",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pos103",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp195",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "i.10",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cos136",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp3014",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "c\u1ea5u tr\u00fac d\u1eef li\u1ec7u v\u00e0 gi\u1ea3i thu\u1eadt",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht313",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp319",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.41",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht310",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.32",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u1ea5t",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht317",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht306",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "he thong thong tin ung dung",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "doi moi sang tao",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "pht307",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "students",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Science",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Data Science",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "j2ee",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "toan-rai-rac",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "not accumulative",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "lap-trinh-huong-doi-tuong",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 1",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m m\u00e3 ngu\u1ed3n m\u1edf",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "discrete math",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "th\u1ed1ng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "cmp167",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "\u1ee9ng d\u1ee5ng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e2n t\u00edch thi\u1ebft k\u1ebf theo h\u01b0\u1edbng \u0111\u1ed1i t\u01b0\u1ee3ng",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "i.11",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "Party History",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "giao ducquocphongandan",
+    "predicate": "is type of",
+    "object": "",
+    "inferred": true
+  },
+  {
+    "subject": "tinh du thai ke",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "an toan he thong mang may tinh",
+    "predicate": "relates to",
+    "object": "tinh du thai ke",
+    "inferred": true
+  },
+  {
+    "subject": "Mobile Technology",
+    "predicate": "related to",
+    "object": "information technology",
+    "inferred": true
+  },
+  {
+    "subject": "Vietnamese Revolution",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Vietnamese Revolution",
+    "predicate": "is type of",
+    "object": "name",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 1",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "bongda1",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "department",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "phan tich va dam gia an toan thong tin",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "an toan he thong mang may tinh",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 2",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "bongda2",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "name",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "mat101",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "sang tao tu duong",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Program",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "tam ly hoc",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "do an tot nghiep",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "law",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "kho d\u1eef li\u1ec7u v\u00e0 khai th\u00e1c d\u1eef li\u1ec7u",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "mat105",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "National Defense",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 6 do an tot nghiep",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "programming",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "information technology",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "khoa",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "co so du lieu phan tan",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "innovation",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "system analysis",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "man104",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "phap luat dac cuong",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 3",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "phan-tich-coso-du-lieu",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "practical work",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam2",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "an ninh",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "probability statistics",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "khoa-hoc-lap-trinh",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 1",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "hanh ky tech",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "nhap-mon-co-so-du-lieu",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "psychoanalysis",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 4",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "contract",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Software Engineering",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "doi moi sang tao",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "toan-rai-rac",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "not accumulative",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "lap-trinh-huong-doi-tuong",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 1",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "discrete math",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "Party History",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "giao ducquocphongandan",
+    "predicate": "is type of",
+    "object": "a",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "inferred": true
+  },
+  {
+    "subject": "d\u1ef1 \u00e1n c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 1",
+    "predicate": "related to",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam 1",
+    "predicate": "related to",
+    "object": "vovinam 3",
+    "inferred": true
+  },
+  {
+    "subject": "Vovinam",
+    "predicate": "related to",
+    "object": "vovinam 3",
+    "inferred": true
+  },
+  {
+    "subject": "vovinam2",
+    "predicate": "is type of",
+    "object": "Vovinam",
+    "inferred": true
+  },
+  {
+    "subject": "nhom 2",
+    "predicate": "related to",
+    "object": "nhom 6 do an tot nghiep",
+    "inferred": true
+  },
+  {
+    "subject": "phan tich va dam gia an toan thong tin",
+    "predicate": "related to",
+    "object": "an toan he thong mang may tinh",
+    "inferred": true
+  },
+  {
+    "subject": "co so du lieu phan tan",
+    "predicate": "relates to",
+    "object": "phan tich va dam gia an toan thong tin",
+    "inferred": true
+  },
+  {
+    "subject": "phan tich va dam gia an toan thong tin",
+    "predicate": "related to",
+    "object": "he thong thong tin ung dung",
+    "inferred": true
+  },
+  {
+    "subject": "b\u00f3ng chuy\u1ec1n 2",
+    "predicate": "related to",
+    "object": "b\u00f3ng chuy\u1ec3n 3",
+    "inferred": true
+  },
+  {
+    "subject": "an toan he thong mang may tinh",
+    "predicate": "related to",
+    "object": "he thong thong tin ung dung",
+    "inferred": true
+  },
+  {
+    "subject": "cos138",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos137",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u01b0\u01a1ng trinh \u0111ao t\u00e0o",
+    "predicate": "related to",
+    "object": "ch\u01b0\u01a1ng tr\u00ecnh gi\u00e1o d\u1ee5c",
+    "inferred": true
+  },
+  {
+    "subject": "bang ro 2",
+    "predicate": "related to",
+    "object": "bang ro 1",
+    "inferred": true
+  },
+  {
+    "subject": "doi moi sang tao",
+    "predicate": "relates to",
+    "object": "sang tao tu duong",
+    "inferred": true
+  },
+  {
+    "subject": "programming",
+    "predicate": "is type of",
+    "object": "Program",
+    "inferred": true
+  },
+  {
+    "subject": "cmp136",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "qu\u1ea3n tr\u1ecb m\u1ea1ng",
+    "predicate": "related to",
+    "object": "qu\u1ea3n l\u00fd d\u1ef1 \u00e1n",
+    "inferred": true
+  },
+  {
+    "subject": "do an tot nghiep",
+    "predicate": "related to",
+    "object": "nhom 6 do an tot nghiep",
+    "inferred": true
+  },
+  {
+    "subject": "c\u1ea5u tr\u00fac d\u1eef li\u1ec7u v\u00e0 gi\u1ea3i thu\u1eadt",
+    "predicate": "relates to",
+    "object": "gi\u1ea3i t\u00edch",
+    "inferred": true
+  },
+  {
+    "subject": "gi\u1ea3i t\u00edch",
+    "predicate": "related to",
+    "object": "ph\u00e2n t\u00edch thi\u1ebft k\u1ebf theo h\u01b0\u1edbng \u0111\u1ed1i t\u01b0\u1ee3ng",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 1",
+    "predicate": "related to",
+    "object": "nh\u00f3m 4",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 1",
+    "predicate": "related to",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "inferred": true
+  },
+  {
+    "subject": "cos339",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u1ea5t l\u01b0\u1ee3ng ph\u1ea7n m\u1ec1m",
+    "predicate": "related to",
+    "object": "t\u1ed5ng kh\u1ed1i l\u01b0\u1ee3ng ki\u1ebfn th\u1ee9c",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u1ea5t l\u01b0\u1ee3ng ph\u1ea7n m\u1ec1m",
+    "predicate": "related to",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u1ea5t l\u01b0\u1ee3ng ph\u1ea7n m\u1ec1m",
+    "predicate": "related to",
+    "object": "ch\u1ea5t",
+    "inferred": true
+  },
+  {
+    "subject": "ch\u1ea5t l\u01b0\u1ee3ng ph\u1ea7n m\u1ec1m",
+    "predicate": "related to",
+    "object": "ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m m\u00e3 ngu\u1ed3n m\u1edf",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.33",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "inferred": true
+  },
+  {
+    "subject": "nghi\u1ec5ng c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "inferred": true
+  },
+  {
+    "subject": "cos340",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "kho d\u1eef li\u1ec7u v\u00e0 khai th\u00e1c d\u1eef li\u1ec7u",
+    "predicate": "related to",
+    "object": "c\u1ea5u tr\u00fac d\u1eef li\u1ec7u v\u00e0 gi\u1ea3i thu\u1eadt",
+    "inferred": true
+  },
+  {
+    "subject": "cos318",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht308",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "related to",
+    "object": "computer science",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "related to",
+    "object": "Computer Network",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Education",
+    "predicate": "related to",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "Operating System",
+    "predicate": "relates to",
+    "object": "system analysis",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n \u1ee9ng d\u1ee5ng v\u1edbi j2ee",
+    "predicate": "related to",
+    "object": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n \u1ee9ng d\u1ee5ng v\u1edbi j2ee",
+    "predicate": "relates to",
+    "object": "j2ee",
+    "inferred": true
+  },
+  {
+    "subject": "ph\u00e1t tri\u1ec3n \u1ee9ng d\u1ee5ng v\u1edbi j2ee",
+    "predicate": "related to",
+    "object": "ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m m\u00e3 ngu\u1ed3n m\u1edf",
+    "inferred": true
+  },
+  {
+    "subject": "cmp1023",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht316",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "khoa-hoc-lap-trinh",
+    "predicate": "is type of",
+    "object": "khoa",
+    "inferred": true
+  },
+  {
+    "subject": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "inferred": true
+  },
+  {
+    "subject": "b\u1ea3o m\u1eadt th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "he thong thong tin ung dung",
+    "predicate": "relates to",
+    "object": "dung",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.34",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos323",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht314",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos130",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp376",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp368",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ii.2.5.03",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht312",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht305",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht309",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp373",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp385",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.31",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos135",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.37",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht318",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos324",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pos103",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cos136",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp3014",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "cmp319",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht310",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ii.1.32",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht317",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht306",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "pht307",
+    "predicate": "is type of",
+    "object": "3",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "related to",
+    "object": "ti\u1ebfng anh 4",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 2",
+    "predicate": "related to",
+    "object": "ti\u1ebfng anh 1",
+    "inferred": true
+  },
+  {
+    "subject": "computer science",
+    "predicate": "related to",
+    "object": "Computer Network",
+    "inferred": true
+  },
+  {
+    "subject": "computer science",
+    "predicate": "related to",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "computer science",
+    "predicate": "related to",
+    "object": "Data Science",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Network",
+    "predicate": "related to",
+    "object": "Computer Science",
+    "inferred": true
+  },
+  {
+    "subject": "ti\u1ebfng anh 4",
+    "predicate": "related to",
+    "object": "ti\u1ebfng anh 1",
+    "inferred": true
+  },
+  {
+    "subject": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "inferred": true
+  },
+  {
+    "subject": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "inferred": true
+  },
+  {
+    "subject": "c\u00f4ng t\u00e1c k\u1ef9 s\u01b0 ng\u00e0nh c\u00f4ng ngh\u1ec7 th\u00f4ng tin",
+    "predicate": "related to",
+    "object": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "inferred": true
+  },
+  {
+    "subject": "h\u1ec7 th\u1ed1ng th\u00f4ng tin \u1ee9ng d\u1ee5ng",
+    "predicate": "relates to",
+    "object": "th\u1ed1ng",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 4",
+    "predicate": "related to",
+    "object": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "predicate": "related to",
+    "object": "c\u01a1 s\u1edf c\u00f4ng ngh\u1ec7",
+    "inferred": true
+  },
+  {
+    "subject": "nh\u00f3m 1: c\u00f4ng ngh\u1ec7 ph\u1ea7n m\u1ec1m",
+    "predicate": "related to",
+    "object": "ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m m\u00e3 ngu\u1ed3n m\u1edf",
+    "inferred": true
+  },
+  {
+    "subject": "Computer Science",
+    "predicate": "related to",
+    "object": "Data Science",
+    "inferred": true
+  }
+]
